@@ -12,7 +12,7 @@
     "01012345678",
     "ADMIN123"
   ],
-  "latest_version": "v2.5.3",
+  "latest_version": "v2.5.2",
   "update_title": "تحديث الأداء والميزات الجديدة",
   "update_notes": [
     "تحسين الأداء والعمل أوفلاين",
